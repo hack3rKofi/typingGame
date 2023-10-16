@@ -1,0 +1,23 @@
+.pending {
+  color: gray;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
+.input {
+  margin-top: 20px;
+  height: 80px;
+  font-size: 32px;
+}
+.container {
+  font-size: 30px;
+  margin: 200px auto;
+}
